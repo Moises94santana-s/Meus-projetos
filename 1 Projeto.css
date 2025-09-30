@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #b0b2b3;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: 500px;
+}
+
+
+
