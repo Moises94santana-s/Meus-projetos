@@ -2,10 +2,29 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background: #DCDCDC;
 }
 
 a {
     background: darkmagenta;
     height: 15px;
     margin: 10px;
+    font-size: 25px;
+}
+
+section {
+    display: inline-block;
+    width: 500px;
+    height: 300px;
+    margin-top: 30px;
+    font-size: 18px;
+}
+
+aside {
+    display: inline-block;
+}hhh
+
+img {
+    width: 500px;
+    height: 300px;
 }
