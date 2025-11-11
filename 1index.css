@@ -5,11 +5,17 @@
     background: #DCDCDC;
 }
 
+header {
+    background: black;
+}
+
 a {
-    background: darkmagenta;
     height: 15px;
     margin: 10px;
     font-size: 25px;
+    color: white;
+    background: black;
+    cursor: pointer;
 }
 
 section {
@@ -22,9 +28,26 @@ section {
 
 aside {
     display: inline-block;
-}hhh
+}
 
 img {
     width: 500px;
     height: 300px;
+}
+
+input {
+    height: 18px;
+}
+
+.livros {
+    width: 80px;
+    height: 100px;
+    
+}
+
+button {
+    background: blue;
+    border-radius: 20px;
+    width: 90px;
+    height: 30px;
 }
